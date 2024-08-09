@@ -1,0 +1,4 @@
+- Ping Pong arcade game
+- two player game
+- make sure to not miss the ball, avoid hitting the sides
+- contols: wsad, arrow keys
